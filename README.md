@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile-banner.png" alt="Light line-art illustration of a guitar, musical notes, and a robotic arm holding a guitar pick" width="100%" />
+</p>
+
 <h1 align="center">Hi there, I'm Hongtao 👋</h1>
 
 <p align="center">
