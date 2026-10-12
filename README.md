@@ -14,7 +14,7 @@
 ### 🙋 About me
 
 - 🎓 Currently doing my **Sc.M. in Electrical & Computer Engineering at Brown** (2026 – 2028)
-- 🏫 Before that: **B.S. (Honors) in Computer Science** at BNBU in Zhuhai, China 🇨🇳 — where I fell down the 3D vision rabbit hole 🕳️
+- 🏫 Before that: **B.S. (Honors) in Computer Science** in China 🇨🇳 — where I fell down the 3D vision rabbit hole 🕳️
 - 🧠 I like building things that *see*, *reconstruct*, and *move* — from Gaussian splats to 3D humans picking up objects
 - 🛠️ Also happy writing the boring-but-important stuff: Flask backends, SQL schemas, access control 😄
 - 🎸 Off the keyboard: I've played **guitar for 15 years** — ask me for song recs
@@ -48,7 +48,7 @@
 - Dual-level contrastive learning over control points and Gaussian primitives to improve multi-view consistency.
 - NeRF Synthetic (8 scenes, 30k iterations): mean **33.61 dB PSNR / 0.951 SSIM**, +0.07 dB and +0.019 over Scaffold-GS.
 
-**RetHOI — Text-to-3D Human–Object Interaction** · *BNBU Final Year Project*
+**RetHOI — Text-to-3D Human–Object Interaction** · *Final Year Project*
 - Text-conditioned diffusion framework with parallel RetNet branches for human and object motion, coordinated via bidirectional cross-retention.
 - Multi-scale Gabor filtering for contact-trajectory refinement; CLIP-based contrastive alignment at both the affordance-prediction and motion-generation stages.
 - BEHAVE (1,451 sequences), vs. HOI-Diff: foot-skating ratio **−94%**, contact distance **−21.3%**, FID **1.501 → 1.443**, inference time **27.3 → 18.8 min** (−31.1%; 196-frame sequences, RTX 4090).
